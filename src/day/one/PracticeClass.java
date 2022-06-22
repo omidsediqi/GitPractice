@@ -3,7 +3,10 @@ package day.one;
 public class PracticeClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	
+	String name = "Omid";
+	int age = 31;
+	 System.out.println("Name: "+ name+ " Age: " +age);
 
 	}
 
